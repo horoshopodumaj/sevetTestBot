@@ -1,0 +1,28 @@
+{
+    "name": "sevettestbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/horoshopodumaj/sevetTestBot.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/horoshopodumaj/sevetTestBot/issues"
+    },
+    "homepage": "https://github.com/horoshopodumaj/sevetTestBot#readme",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "telegraf": "^4.15.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
